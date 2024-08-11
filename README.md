@@ -1,4 +1,3 @@
-# USB-Sanitization
 # Report
 # Project Title: USB Sanitizer
 Objective: The goal of this project is to enhance the security of USB drives by detecting and quarantining potentially harmful files automatically.
